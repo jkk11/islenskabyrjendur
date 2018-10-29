@@ -1,0 +1,2 @@
+# islenskabyrjendur
+Íslenska fyrir byrjendur
